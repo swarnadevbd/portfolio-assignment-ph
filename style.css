@@ -149,9 +149,6 @@ h1{
 }
 .division-2{
 display: flex;
-background-image: url(images/exp-bg.png);
-background-repeat: no-repeat;
-background-position: left;
 justify-content: center;
 }
 
