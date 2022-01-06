@@ -1,0 +1,240 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    line-height: 1.8;
+    background-color: whitesmoke;
+}
+
+h1{
+    font-size: 50px;   
+}
+
+.first-heading{
+    margin-bottom: 0px;
+    font-family: 'Lato', sans-serif;
+    color: tomato;
+}
+
+.name{
+    
+    margin-top: 0px;
+    font-family: 'Lato', sans-serif;
+}
+
+.headings{
+    border-left: 5px solid tomato;
+    padding-left: 10px;
+}
+
+.know-more{
+    margin-top: 40px
+}
+
+.section-1{
+    display: flex;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    margin-bottom: 150px;
+    justify-content: center;
+}
+
+.images{
+    width: 30%;  
+    text-align: end;
+}
+.division-img-2{
+    width: 30%;   
+}
+
+.division-main{
+    width: 40%;
+    padding-left: 5%;
+    margin-top: 70px;    
+}
+
+.division-main2{
+    width: 40%;
+    padding-left: 5%;    
+}
+
+.division-main2 img{
+    width: 80%;    
+}
+
+.division-img-2 img{
+    width: 100%;
+}
+
+.writings{
+    width: 40%;
+    padding-left: 5%;
+}
+
+.education-text{
+    width: 40%;
+    padding-right: 5%;
+}
+
+.images img{
+    width: 100%;
+}
+
+.hire-btn{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 40px;
+    color: white;
+    border-radius: 5px;
+    background-image: linear-gradient(orange, tomato);
+    font-weight: bold;
+    margin-top: 25px;
+}
+
+.passage{
+    margin-bottom: 30px;
+}
+
+.skills{
+    display: flex;
+    margin-bottom: 150px;
+    justify-content: center; 
+}
+
+.skills-img{
+    border-radius: 20px;
+    
+}
+.section-3{
+    margin-bottom: 150px;
+}
+
+.education-section{
+    display: flex;
+    margin-bottom: 150px;
+    justify-content: center; 
+}
+
+.contact-division{    
+    display: flex;
+    justify-content: center; 
+}
+
+.app{
+    width: 50%;
+    height: auto;
+}
+
+.experience{
+    margin-bottom: 150px;
+}
+
+.mission{
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+}
+
+.year{
+    color: tomato;
+}
+.highlight{
+    color: tomato;
+    margin-top: 0;
+}                                                                                       
+.skills-heading {
+    color: tomato;
+}    
+
+.education-heading{
+    color: tomato;
+}
+.division-2{
+display: flex;
+background-image: url(images/exp-bg.png);
+background-repeat: no-repeat;
+background-position: left;
+justify-content: center;
+}
+
+.cards{
+    width: 22%;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.illustration-1{
+width: 40%;
+}
+
+#certification-division{
+    background-color: rgb(170, 243, 243);
+    box-shadow: 10px 10px 20px rgb(167, 226, 216);
+  
+}
+
+#goals{
+   background-color: rgb(246, 178, 241);
+   box-shadow: 10px 10px 20px rgb(226, 167, 167);
+}
+#experience-division{
+    background-color: rgb(241, 185, 136);
+    box-shadow: 10px 10px 20px rgb(250, 231, 215);
+}
+.contact-me-img{
+    border-radius: 20px;
+}
+
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+  }
+  
+  input[type=submit] {
+    background-color: tomato;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
+  
+  .container {
+    border-radius: 5px;
+    background-color: #f0f7cb;
+    padding: 20px;
+  }
+
+footer{
+    height: 150px;
+    background-color: rgb(21, 25, 36);
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+footer h2{
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    margin-bottom: 0;
+}
+footer p{
+    text-align: center;
+}
+.footer-subtitle{
+    font-family: 'Lobster', cursive;
+    margin-top: 0;
+}
